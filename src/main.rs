@@ -1,8 +1,4 @@
-use std::{
-    fs,
-    io::{self, BufRead, BufReader},
-    path,
-};
+use std::fs;
 
 mod token;
 
